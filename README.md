@@ -1,3 +1,3 @@
 # gitlab-ci-terraform-aws
 
-Includes both terraform and awscli.
+Includes terraform, awscli and jq.
